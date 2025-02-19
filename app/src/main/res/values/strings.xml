@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">EventGrid</string>
+    <string name="desc_exercise">Stay active and healthy by exploring the latest trends in fitness, workout routines, and wellness innovations designed to enhance physical and mental well-being.</string>
+    <string name="desc_music">Immerse yourself in a vibrant musical experience with live performances from renowned artists and bands, featuring diverse genres, electrifying energy, and unforgettable melodies.</string>
+    <string name="desc_sports">Experience the adrenaline rush of live sports events, where top athletes showcase their skills, compete for glory, and deliver thrilling moments of action and excellence.</string>
+    <string name="desc_swimming">Enhance your physical fitness and mental well-being through swimming, a full-body workout that improves endurance, strength, and flexibility. Whether you are a beginner or a professional, dive into refreshing waters, master different strokes, and experience the therapeutic benefits of aquatic exercise in a safe and enjoyable environment.</string>
+    <string name="desc_charity">Make a positive impact by participating in charitable initiatives that support social causes, raise awareness, and contribute to the well-being of underprivileged communities.</string>
+    <string name="desc_webinar">Enhance your knowledge and skills by joining interactive online sessions led by industry experts, featuring insightful discussions, practical demonstrations, and real-world applications.</string>
+    <string name="desc_cultural">Celebrate cultural diversity through traditional performances, artistic expressions, and heritage showcases that highlight the beauty and richness of global traditions.</string>
+    <string name="desc_wedding">Be part of a magical wedding celebration filled with love, joy, and heartfelt moments as couples exchange vows, embrace traditions, and create memories to last a lifetime.</string>
+    <string name="desc_coding">Test your programming expertise in competitive coding challenges, collaborate with fellow developers, and explore innovative solutions to real-world technical problems.</string>
+    <string name="desc_business">Unlock new business opportunities by engaging with industry leaders, discovering emerging market trends, and gaining insights into successful entrepreneurship strategies.</string>
+    <string name="desc_science">Delve into the fascinating world of scientific discoveries, breakthrough innovations, and experimental research that shape the future of technology, medicine, and beyond.</string>
+    <string name="desc_university">Reconnect with fellow alumni, reminisce about unforgettable university experiences, and celebrate academic achievements through engaging reunions and networking events.</string>
+    <string name="desc_game">Step into the exciting realm of gaming with intense battles, strategic competitions, and thrilling tournaments where players compete to showcase their skills and claim victory.</string>
+    <string name="desc_movie">Experience the magic of cinema by attending exclusive premieres, watching highly anticipated blockbuster films, and enjoying behind-the-scenes insights from the industry.</string>
+    <string name="desc_parties">Join lively celebrations filled with energetic music, delicious cuisine, engaging entertainment, and a fun atmosphere that promises an unforgettable social experience.</string>
+
+    <string name="desc_default">No description available.</string>
+    <string name="error_name">Enter event name</string>
+    <string name="error_desc">Enter event description</string>
+
+    <string name="add_event">Add Event</string>
+    <string name="delete_event">Delete Event</string>
+
+    <string name="action_add">Add Event</string>
+    <string name="event_desc_hint">Enter Event Description</string>
+    <string name="event_name_hint">Enter Event Name</string>
+
+    <string name="event_image_desc">Event related image</string>
+    <string name="event_name">Event Name</string>
+
+</resources>
+
+

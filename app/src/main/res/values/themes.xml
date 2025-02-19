@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.EventList" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/purple</item>
+        <item name="actionOverflowButtonStyle">@style/ThreeDotColor</item>
+        <item name="android:textColorPrimary">@color/white</item> <!-- Ensures white text in overflow menu -->
+    </style>
+
+    <style name="Theme.EventList" parent="Base.Theme.EventList" />
+
+    <style name="ThreeDotColor" parent="Widget.AppCompat.Light.ActionButton.Overflow">
+        <item name="android:tint">@android:color/white</item> <!-- Use white tint for the overflow button -->
+    </style>
+
+    <style name="DarkDatePickerDialogTheme" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name="android:windowBackground">@color/gray</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <style name="DarkTimePickerDialogTheme" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name="android:windowBackground">@color/gray</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+
+</resources>

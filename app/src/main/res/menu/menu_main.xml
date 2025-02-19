@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add"
+        android:title="Add Event"
+        android:icon="@drawable/baseline_add_24"
+        app:showAsAction="ifRoom" /> <!-- Show if room is available -->
+
+    <item
+        android:id="@+id/action_delete"
+        android:title="Delete Event"
+        android:icon="@drawable/baseline_delete_24"
+        app:showAsAction="ifRoom" /> <!-- Show if room is available -->
+</menu>
